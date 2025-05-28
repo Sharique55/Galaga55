@@ -136,7 +136,7 @@ See the [`LICENSE`](LICENSE) file for details.
 
 **Sharique Hussain**  
 💼 Lead Engineer @ Cloud Software Group  
-🔗 [GitHub Profile](https://github.com/shussain-tibco)
+🔗 [GitHub Profile](https://gist.github.com/Sharique55)
 
 ---
 
@@ -144,7 +144,7 @@ See the [`LICENSE`](LICENSE) file for details.
 
 - 📘 [Pygame Documentation](https://www.pygame.org/docs/)
 - 🎮 [Galaga Wiki](https://en.wikipedia.org/wiki/Galaga)
-- 📦 [GitHub Wiki for this project](https://github.com/YOUR-USERNAME/galaga-clone/wiki)
+- 📦 [GitHub Wiki for this project](https://github.com/Sharique55/Galaga55/wiki)
 
 ---
 
