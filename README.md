@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue.svg">
   <img src="https://img.shields.io/badge/Game%20Engine-Pygame-yellow">
-  <img src="https://img.shields.io/github/license/YOUR-USERNAME/galaga-clone">
+  <img src="https://img.shields.io/github/license/Sharique55/Galaga55">
 </p>
 
 ---
@@ -28,7 +28,7 @@ Control your spaceship, dodge the alien swarms, and shoot down enemy invaders to
 
 > Add a screenshot or screen recording
 
-![Game Preview](https://via.placeholder.com/800x400?text=Galaga+Clone+Gameplay+Preview)
+![Game Preview](https://via.placeholder.com/800x400?text=Galaga55+Gameplay+Preview)
 
 ---
 
@@ -58,7 +58,7 @@ Supports Python 3.8 and above.
 ## 📁 Project Structure
 
 ```
-galaga-clone/
+Galaga55/
 │
 ├── galaga_game.py          # Main game logic
 ├── player.png              # Player sprite
@@ -75,8 +75,8 @@ galaga-clone/
 1. **Clone this repo:**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/galaga-clone.git
-cd galaga-clone
+git clone https://github.com/Sharique55/Galaga55.git
+cd Galaga55
 ```
 
 2. **Run it:**
